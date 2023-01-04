@@ -1,0 +1,28 @@
+body{
+    background-image: url(backdrops_0_1500.png);
+    font-family: Covered;
+}
+p{
+    background-color: aliceblue;
+    font-size: large;
+    border-radius: 20px;
+    padding: 1pc;
+    box-shadow: 1pc;
+}
+h1,h2{
+    text-align: center;
+    color:lightgoldenrodyellow;
+    -webkit-text-stroke: 1px black;
+    font-size: 4cm;
+}
+h2{
+    font-size: 2cm;
+}
+blockquote{
+    background-color: bisque;
+    font-size: 5ch;
+}
+@font-face{
+    font-family: Covered;
+    src: url("Covered_By_Your_Grace/CoveredByYourGrace-Regular.ttf")
+}
